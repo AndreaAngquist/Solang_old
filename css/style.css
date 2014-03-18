@@ -175,17 +175,17 @@ header .container {
 .logo {
 	display: block;
 	width: 100%;
-	max-width: 140px;
-	height: 90px;
+	max-width: 55px;
+	height: 55px;
 	position: absolute;
-	top: 0;
+	top: 30%;
 	left: 50%;
 	z-index: 1;
-	margin-left: -70px;
-	background: url(../img/logo-small.svg) no-repeat;
+	margin-left: -40px;
+	background: url(../img/sheep_logo_Xsmall_55_Mirror.svg) no-repeat;
 }
 .no-svg .logo {
-	background: url(../img/logo-small.png) no-repeat;
+	background: url(../img/sheep_logo_Xsmall_55_Mirror.png) no-repeat;
 }
 
 /*Navigation*/
