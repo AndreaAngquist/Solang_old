@@ -153,6 +153,7 @@ header {
 .stiky.stuck {
 	position: fixed;
 	top: 0;
+	z-index: 10;
 }
 header.pinned {
 	position: fixed;
